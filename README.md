@@ -53,8 +53,8 @@ Siamo aperti a contributi e suggerimenti per migliorare il "Gestore Appuntamenti
 
 ## Licenza
 
-Questo software è distribuito sotto la Licenza MIT. Leggi il file [LICENSE](LICENSE) per ulteriori informazioni.
+Questo software è distribuito sotto la Licenza GPL3.
 
 ---
 
-*Sviluppato con amore da Luca Bocaletto.*
+*Sviluppato da Luca Bocaletto.*
