@@ -1,11 +1,8 @@
 # Appointment Management
 
-# Gestore Appuntamenti 
-
-Il **Gestore Appuntamenti** è un software progettato per semplificare la gestione e l'organizzazione degli appuntamenti personali o professionali. Sviluppato da Luca Bocaletto, questa versione 0.5 offre un'interfaccia utente intuitiva basata sulla libreria PyQt6 per la creazione di applicazioni desktop in Python.
-![Screenshot 2023-10-07 181704](https://github.com/elektronoide/Gestione-Appuntamenti/assets/134635227/0bd69950-2e94-48ba-b381-69e799d754f1)
-
 **Appointment Manager** is software designed to simplify the management and organization of personal or professional appointments. Developed by Luca Bocaletto, this version offers an intuitive user interface based on the PyQt6 library for building desktop applications in Python.
+
+![Screenshot 2023-10-07 181704](https://github.com/elektronoide/Gestione-Appuntamenti/assets/134635227/0bd69950-2e94-48ba-b381-69e799d754f1)
 
 ## Main features
 
@@ -58,6 +55,10 @@ We are open to contributions and suggestions to improve the "Appointment Manager
 ## License
 
 This software is distributed under the GPL3 License.
+
+# Gestore Appuntamenti 
+
+Il **Gestore Appuntamenti** è un software progettato per semplificare la gestione e l'organizzazione degli appuntamenti personali o professionali. Sviluppato da Luca Bocaletto, questa versione 0.5 offre un'interfaccia utente intuitiva basata sulla libreria PyQt6 per la creazione di applicazioni desktop in Python.
 
 ## Caratteristiche principali
 
