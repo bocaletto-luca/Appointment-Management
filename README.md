@@ -106,7 +106,7 @@ Il **Gestore Appuntamenti** è uno strumento ideale per chiunque abbia bisogno d
 
 ## Contributi
 
-Siamo aperti a contributi e suggerimenti per migliorare il "Gestore Appuntamenti". Sentiti libero di aprire un problema o inviare una richiesta pull sul repository del progetto.
+Sono aprto a contributi e suggerimenti per migliorare il "Gestore Appuntamenti". Sentiti libero di aprire un problema o inviare una richiesta pull sul repository del progetto, usalo a tuo piacimento e divertiti.
 
 ## Licenza
 
