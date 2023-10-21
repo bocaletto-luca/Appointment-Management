@@ -58,7 +58,7 @@ This software is distributed under the GPL3 License.
 
 # Gestore Appuntamenti 
 
-Il **Gestore Appuntamenti** è un software progettato per semplificare la gestione e l'organizzazione degli appuntamenti personali o professionali. Sviluppato da Luca Bocaletto, questa versione 0.5 offre un'interfaccia utente intuitiva basata sulla libreria PyQt6 per la creazione di applicazioni desktop in Python.
+Il **Gestore Appuntamenti** è un software progettato per semplificare la gestione e l'organizzazione degli appuntamenti personali o professionali. Sviluppato da Luca Bocaletto, offre un'interfaccia utente intuitiva basata sulla libreria PyQt6 per la creazione di applicazioni desktop in Python.
 
 ## Caratteristiche principali
 
