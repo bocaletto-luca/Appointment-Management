@@ -1,5 +1,5 @@
-# Name: Gestione Appuntamenti
-# Author: Bocaletto Luca Aka Elektronoide
+# Name: Appointment-Management
+# Author: Bocaletto Luca
 # Importazioni dei moduli necessari
 import sys
 from PyQt6.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QLabel, QLineEdit, QPushButton, QTableWidget, QTableWidgetItem, QHBoxLayout, QDialog, QMessageBox, QCalendarWidget
